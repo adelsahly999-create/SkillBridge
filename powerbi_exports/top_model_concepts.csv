@@ -1,0 +1,91 @@
+occupation_name,rank,skill_uri,skill_name,skill_type,model_weight,occupation_id,concept_id
+artificial intelligence engineer,1,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4,information architecture,knowledge,5.33702832489803,1,132
+artificial intelligence engineer,2,http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38,algorithms,knowledge,4.943420333891948,1,7
+artificial intelligence engineer,3,http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9,creatively use digital technologies,skill/competence,4.695247754928486,1,54
+artificial intelligence engineer,4,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97,computer programming,knowledge,4.666940466646504,1,44
+artificial intelligence engineer,5,http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3,design process,skill/competence,4.340743307972919,1,80
+artificial intelligence engineer,6,http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2,develop statistical software,skill/competence,4.125635695538712,1,87
+artificial intelligence engineer,7,http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410,task algorithmisation,knowledge,4.107923784895254,1,260
+artificial intelligence engineer,8,http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4,artificial neural networks,knowledge,4.09255257025303,1,21
+artificial intelligence engineer,9,http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f,computer simulation,knowledge,4.03260159591062,1,46
+artificial intelligence engineer,10,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,python (computer programming),knowledge,4.01483549105653,1,223
+data analyst,1,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,information confidentiality,knowledge,5.674040946110632,2,134
+data analyst,2,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ict data,skill/competence,5.29674703963455,2,40
+data analyst,3,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ict data,skill/competence,5.064350442143278,2,138
+data analyst,4,http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f,documentation types,knowledge,4.94120524533979,2,92
+data analyst,5,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,apply statistical analysis techniques,skill/competence,4.567824386580677,2,18
+data analyst,6,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,knowledge,4.513131988327902,2,252
+data analyst,7,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,knowledge,4.465774334709421,2,29
+data analyst,8,http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,skill/competence,4.0575200643893865,2,8
+data analyst,9,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,knowledge,3.97759471922907,2,64
+data analyst,10,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,skill/competence,3.804570171923568,2,202
+data engineer,1,http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab,develop data processing applications,skill/competence,5.281893125186089,3,84
+data engineer,2,http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d,manage research data,skill/competence,5.117828735980741,3,167
+data engineer,3,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,knowledge,4.852676165300563,3,36
+data engineer,4,http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd,implement data warehousing techniques,skill/competence,4.599595992526079,3,128
+data engineer,5,http://data.europa.eu/esco/skill/611ed16b-99bf-4840-9cab-f55d1d286e0a,store digital data and systems,skill/competence,4.564141398993828,3,253
+data engineer,6,http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e,manage quantitative data,skill/competence,4.54044448334121,3,166
+data engineer,7,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,skill/competence,4.5064998683542665,3,155
+data engineer,8,http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15,design database in the cloud,skill/competence,4.427864109376508,3,78
+data engineer,9,http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775,perform dimensionality reduction,skill/competence,4.4089066492826445,3,203
+data engineer,10,http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378,data analytics,knowledge,4.296404593304882,3,55
+data quality specialist,1,http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92,address problems critically,skill/competence,5.700142435184782,4,2
+data quality specialist,2,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,skill/competence,5.609066387264018,4,71
+data quality specialist,3,http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50,process data,skill/competence,5.381613857895712,4,212
+data quality specialist,4,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,knowledge,5.158763839151266,4,57
+data quality specialist,5,http://data.europa.eu/esco/skill/697dcc9f-ae92-4506-b5f2-e770d7589f74,utilise regular expressions,skill/competence,5.119719315912239,4,283
+data quality specialist,6,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,skill/competence,5.079017264619314,4,201
+data quality specialist,7,http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f,manage database,skill/competence,4.900313377492929,4,157
+data quality specialist,8,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,skill/competence,4.695938502186962,4,109
+data quality specialist,9,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,skill/competence,4.547155341138691,4,183
+data quality specialist,10,http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1,manage standards for data exchange,skill/competence,4.497676778570055,4,169
+data scientist,1,http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea,empirical analysis,knowledge,3.735522694441409,5,95
+data scientist,2,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,knowledge,3.392763767798481,5,251
+data scientist,3,http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039,manage open publications,skill/competence,3.309020262877833,5,164
+data scientist,4,http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1,think abstractly,skill/competence,3.230987030695043,5,264
+data scientist,5,http://data.europa.eu/esco/skill/518dc04d-092d-4fa1-bd82-88b7a9278ef7,manage intellectual property rights,skill/competence,3.21115486344992,5,163
+data scientist,6,http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db,demonstrate disciplinary expertise,skill/competence,3.172590203710745,5,75
+data scientist,7,http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930,publish academic research,skill/competence,3.167132315669406,5,222
+data scientist,8,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,draft scientific or academic papers and technical documentation,skill/competence,3.1615502684687553,5,94
+data scientist,9,http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e,promote the transfer of knowledge,skill/competence,3.155748382025668,5,218
+data scientist,10,http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9,evaluate research activities,skill/competence,3.0864247407011125,5,99
+data warehouse designer,1,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de,data warehouse,knowledge,7.02773038656677,6,65
+data warehouse designer,2,http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08,identify software for warehouse management,skill/competence,6.454228083014201,6,123
+data warehouse designer,3,http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377,migrate existing data,skill/competence,4.628874875228736,6,178
+data warehouse designer,4,http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba,create software design,skill/competence,4.063047940554988,6,52
+data warehouse designer,5,http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28,web programming,knowledge,3.937959417828946,6,289
+data warehouse designer,6,http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17,analyse business requirements,skill/competence,3.900916650348818,6,9
+data warehouse designer,7,http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb,business process modelling,knowledge,3.673518697849111,6,31
+data warehouse designer,8,http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49,systems theory,knowledge,3.6620234088860717,6,259
+data warehouse designer,9,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,skill/competence,3.490266707771881,6,274
+data warehouse designer,10,http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f,create database diagrams,skill/competence,3.3721944756098408,6,51
+database administrator,1,http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47,maintain database performance,skill/competence,5.455255954676209,7,150
+database administrator,2,http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f,apply company policies,skill/competence,5.286478853117742,7,13
+database administrator,3,http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212,design database backup specifications,skill/competence,5.100882983721609,7,77
+database administrator,4,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333,use scripting programming,skill/competence,4.9838131641830135,7,279
+database administrator,5,http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0,maintain database security,skill/competence,4.9503004501637164,7,151
+database administrator,6,http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad,define database physical structure,skill/competence,4.90483084581105,7,72
+database administrator,7,http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3,system backup best practice,knowledge,4.6903738230442675,7,257
+database administrator,8,http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5,perform ict troubleshooting,skill/competence,4.39234324318474,7,204
+database administrator,9,http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3,administer ict system,skill/competence,4.320906053865299,7,3
+database administrator,10,http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578,balance database resources,skill/competence,4.255112318052877,7,25
+database designer,1,http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f,perform data analysis,skill/competence,6.586492763118915,8,200
+database designer,2,http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575,systems development life-cycle,knowledge,6.412043480546988,8,258
+database designer,3,http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926,assess ict knowledge,skill/competence,4.74715492611713,8,24
+database designer,4,http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2,define technical requirements,skill/competence,4.330625234657712,8,73
+database designer,5,http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42,ict security legislation,knowledge,4.328214863204806,8,119
+database designer,6,http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f,create database diagrams,skill/competence,4.197805768819992,8,51
+database designer,7,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,database,knowledge,4.073514430288032,8,66
+database designer,8,http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300,develop automated migration methods,skill/competence,3.9507743159968647,8,82
+database designer,9,http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26,use markup languages,skill/competence,3.73673889553773,8,276
+database designer,10,http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377,migrate existing data,skill/competence,3.287042900739026,8,178
+database developer,1,http://data.europa.eu/esco/skill/e2fb1ee4-fbf9-4690-b677-3e6ff7cfdc48,test ict queries,skill/competence,5.805112112475867,9,263
+database developer,2,http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64,identify customer requirements,skill/competence,5.586653198904448,9,120
+database developer,3,http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,"data extraction, transformation and loading tools",knowledge,5.521789259621078,9,58
+database developer,4,http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21,collect customer feedback on applications,skill/competence,5.509020880523144,9,39
+database developer,5,http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,apply information security policies,skill/competence,5.050858039641001,9,16
+database developer,6,http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b,estimate duration of work,skill/competence,4.939639140268294,9,98
+database developer,7,http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9,use an application-specific interface,skill/competence,4.802664755288691,9,270
+database developer,8,http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783,interpret technical texts,skill/competence,4.558753948527145,9,142
+database developer,9,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,skill/competence,4.302899574587424,9,230
+database developer,10,http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c,write database documentation,skill/competence,4.211564400613844,9,291

@@ -1,0 +1,11 @@
+table_name,column_name,meaning
+dim_occupation,occupation_id,Unique key for an occupation.
+dim_concept,concept_id,Unique key for an ESCO concept.
+dim_concept,skill_description,Description supplied by ESCO.
+fact_occupation_concept,relation_type,Essential or optional in ESCO.
+fact_model_metrics,test_macro_f1,Average F1 across nine occupations.
+fact_model_metrics,test_top_3_accuracy,Correct job is in the first three results.
+fact_classification_metrics,f1_score,F1 for one occupation.
+fact_confusion_matrix,number_of_profiles,Profiles for one actual/predicted pair.
+top_model_concepts,model_weight,"Model signal, not a hiring importance score."
+example_recommendations,model_score,"Relative score, not a suitability probability."

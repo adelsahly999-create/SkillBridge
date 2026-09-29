@@ -1,0 +1,3 @@
+model,cv_macro_f1,test_accuracy,test_macro_f1,test_top_3_accuracy,best_parameters,model_id
+Logistic regression,0.9712171003563674,0.9722222222222222,0.9722048502536307,1.0,"{""model__C"": 5.0, ""tfidf__norm"": ""l1"", ""tfidf__use_idf"": false}",1
+K-nearest neighbours,0.9646430670854167,0.9722222222222222,0.9722048502536307,1.0,"{""model__n_neighbors"": 15, ""model__weights"": ""uniform"", ""tfidf__use_idf"": false}",2

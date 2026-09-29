@@ -1,0 +1,10 @@
+occupation_id,occupation_name,is_data_scientist
+1,artificial intelligence engineer,False
+2,data analyst,False
+3,data engineer,False
+4,data quality specialist,False
+5,data scientist,True
+6,data warehouse designer,False
+7,database administrator,False
+8,database designer,False
+9,database developer,False

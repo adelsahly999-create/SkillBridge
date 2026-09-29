@@ -1,0 +1,7 @@
+from_table,from_column,to_table,to_column,cardinality
+dim_occupation,occupation_id,fact_occupation_concept,occupation_id,one-to-many
+dim_concept,concept_id,fact_occupation_concept,concept_id,one-to-many
+dim_model,model_id,fact_model_metrics,model_id,one-to-many
+dim_model,model_id,fact_classification_metrics,model_id,one-to-many
+dim_occupation,occupation_id,fact_classification_metrics,occupation_id,one-to-many
+dim_occupation,occupation_id,example_recommendations,occupation_id,one-to-many

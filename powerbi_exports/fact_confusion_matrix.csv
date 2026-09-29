@@ -1,0 +1,163 @@
+model,actual_occupation,predicted_occupation,number_of_profiles,model_id
+Logistic regression,artificial intelligence engineer,artificial intelligence engineer,40,1
+Logistic regression,artificial intelligence engineer,data analyst,0,1
+Logistic regression,artificial intelligence engineer,data engineer,0,1
+Logistic regression,artificial intelligence engineer,data quality specialist,0,1
+Logistic regression,artificial intelligence engineer,data scientist,0,1
+Logistic regression,artificial intelligence engineer,data warehouse designer,0,1
+Logistic regression,artificial intelligence engineer,database administrator,0,1
+Logistic regression,artificial intelligence engineer,database designer,0,1
+Logistic regression,artificial intelligence engineer,database developer,0,1
+Logistic regression,data analyst,artificial intelligence engineer,0,1
+Logistic regression,data analyst,data analyst,40,1
+Logistic regression,data analyst,data engineer,0,1
+Logistic regression,data analyst,data quality specialist,0,1
+Logistic regression,data analyst,data scientist,0,1
+Logistic regression,data analyst,data warehouse designer,0,1
+Logistic regression,data analyst,database administrator,0,1
+Logistic regression,data analyst,database designer,0,1
+Logistic regression,data analyst,database developer,0,1
+Logistic regression,data engineer,artificial intelligence engineer,0,1
+Logistic regression,data engineer,data analyst,0,1
+Logistic regression,data engineer,data engineer,40,1
+Logistic regression,data engineer,data quality specialist,0,1
+Logistic regression,data engineer,data scientist,0,1
+Logistic regression,data engineer,data warehouse designer,0,1
+Logistic regression,data engineer,database administrator,0,1
+Logistic regression,data engineer,database designer,0,1
+Logistic regression,data engineer,database developer,0,1
+Logistic regression,data quality specialist,artificial intelligence engineer,0,1
+Logistic regression,data quality specialist,data analyst,0,1
+Logistic regression,data quality specialist,data engineer,0,1
+Logistic regression,data quality specialist,data quality specialist,40,1
+Logistic regression,data quality specialist,data scientist,0,1
+Logistic regression,data quality specialist,data warehouse designer,0,1
+Logistic regression,data quality specialist,database administrator,0,1
+Logistic regression,data quality specialist,database designer,0,1
+Logistic regression,data quality specialist,database developer,0,1
+Logistic regression,data scientist,artificial intelligence engineer,0,1
+Logistic regression,data scientist,data analyst,0,1
+Logistic regression,data scientist,data engineer,0,1
+Logistic regression,data scientist,data quality specialist,0,1
+Logistic regression,data scientist,data scientist,40,1
+Logistic regression,data scientist,data warehouse designer,0,1
+Logistic regression,data scientist,database administrator,0,1
+Logistic regression,data scientist,database designer,0,1
+Logistic regression,data scientist,database developer,0,1
+Logistic regression,data warehouse designer,artificial intelligence engineer,0,1
+Logistic regression,data warehouse designer,data analyst,0,1
+Logistic regression,data warehouse designer,data engineer,0,1
+Logistic regression,data warehouse designer,data quality specialist,0,1
+Logistic regression,data warehouse designer,data scientist,0,1
+Logistic regression,data warehouse designer,data warehouse designer,34,1
+Logistic regression,data warehouse designer,database administrator,0,1
+Logistic regression,data warehouse designer,database designer,6,1
+Logistic regression,data warehouse designer,database developer,0,1
+Logistic regression,database administrator,artificial intelligence engineer,0,1
+Logistic regression,database administrator,data analyst,0,1
+Logistic regression,database administrator,data engineer,0,1
+Logistic regression,database administrator,data quality specialist,0,1
+Logistic regression,database administrator,data scientist,0,1
+Logistic regression,database administrator,data warehouse designer,0,1
+Logistic regression,database administrator,database administrator,40,1
+Logistic regression,database administrator,database designer,0,1
+Logistic regression,database administrator,database developer,0,1
+Logistic regression,database designer,artificial intelligence engineer,0,1
+Logistic regression,database designer,data analyst,0,1
+Logistic regression,database designer,data engineer,0,1
+Logistic regression,database designer,data quality specialist,0,1
+Logistic regression,database designer,data scientist,0,1
+Logistic regression,database designer,data warehouse designer,4,1
+Logistic regression,database designer,database administrator,0,1
+Logistic regression,database designer,database designer,36,1
+Logistic regression,database designer,database developer,0,1
+Logistic regression,database developer,artificial intelligence engineer,0,1
+Logistic regression,database developer,data analyst,0,1
+Logistic regression,database developer,data engineer,0,1
+Logistic regression,database developer,data quality specialist,0,1
+Logistic regression,database developer,data scientist,0,1
+Logistic regression,database developer,data warehouse designer,0,1
+Logistic regression,database developer,database administrator,0,1
+Logistic regression,database developer,database designer,0,1
+Logistic regression,database developer,database developer,40,1
+K-nearest neighbours,artificial intelligence engineer,artificial intelligence engineer,40,2
+K-nearest neighbours,artificial intelligence engineer,data analyst,0,2
+K-nearest neighbours,artificial intelligence engineer,data engineer,0,2
+K-nearest neighbours,artificial intelligence engineer,data quality specialist,0,2
+K-nearest neighbours,artificial intelligence engineer,data scientist,0,2
+K-nearest neighbours,artificial intelligence engineer,data warehouse designer,0,2
+K-nearest neighbours,artificial intelligence engineer,database administrator,0,2
+K-nearest neighbours,artificial intelligence engineer,database designer,0,2
+K-nearest neighbours,artificial intelligence engineer,database developer,0,2
+K-nearest neighbours,data analyst,artificial intelligence engineer,0,2
+K-nearest neighbours,data analyst,data analyst,40,2
+K-nearest neighbours,data analyst,data engineer,0,2
+K-nearest neighbours,data analyst,data quality specialist,0,2
+K-nearest neighbours,data analyst,data scientist,0,2
+K-nearest neighbours,data analyst,data warehouse designer,0,2
+K-nearest neighbours,data analyst,database administrator,0,2
+K-nearest neighbours,data analyst,database designer,0,2
+K-nearest neighbours,data analyst,database developer,0,2
+K-nearest neighbours,data engineer,artificial intelligence engineer,0,2
+K-nearest neighbours,data engineer,data analyst,0,2
+K-nearest neighbours,data engineer,data engineer,40,2
+K-nearest neighbours,data engineer,data quality specialist,0,2
+K-nearest neighbours,data engineer,data scientist,0,2
+K-nearest neighbours,data engineer,data warehouse designer,0,2
+K-nearest neighbours,data engineer,database administrator,0,2
+K-nearest neighbours,data engineer,database designer,0,2
+K-nearest neighbours,data engineer,database developer,0,2
+K-nearest neighbours,data quality specialist,artificial intelligence engineer,0,2
+K-nearest neighbours,data quality specialist,data analyst,0,2
+K-nearest neighbours,data quality specialist,data engineer,0,2
+K-nearest neighbours,data quality specialist,data quality specialist,40,2
+K-nearest neighbours,data quality specialist,data scientist,0,2
+K-nearest neighbours,data quality specialist,data warehouse designer,0,2
+K-nearest neighbours,data quality specialist,database administrator,0,2
+K-nearest neighbours,data quality specialist,database designer,0,2
+K-nearest neighbours,data quality specialist,database developer,0,2
+K-nearest neighbours,data scientist,artificial intelligence engineer,0,2
+K-nearest neighbours,data scientist,data analyst,0,2
+K-nearest neighbours,data scientist,data engineer,0,2
+K-nearest neighbours,data scientist,data quality specialist,0,2
+K-nearest neighbours,data scientist,data scientist,40,2
+K-nearest neighbours,data scientist,data warehouse designer,0,2
+K-nearest neighbours,data scientist,database administrator,0,2
+K-nearest neighbours,data scientist,database designer,0,2
+K-nearest neighbours,data scientist,database developer,0,2
+K-nearest neighbours,data warehouse designer,artificial intelligence engineer,0,2
+K-nearest neighbours,data warehouse designer,data analyst,0,2
+K-nearest neighbours,data warehouse designer,data engineer,0,2
+K-nearest neighbours,data warehouse designer,data quality specialist,0,2
+K-nearest neighbours,data warehouse designer,data scientist,0,2
+K-nearest neighbours,data warehouse designer,data warehouse designer,34,2
+K-nearest neighbours,data warehouse designer,database administrator,0,2
+K-nearest neighbours,data warehouse designer,database designer,6,2
+K-nearest neighbours,data warehouse designer,database developer,0,2
+K-nearest neighbours,database administrator,artificial intelligence engineer,0,2
+K-nearest neighbours,database administrator,data analyst,0,2
+K-nearest neighbours,database administrator,data engineer,0,2
+K-nearest neighbours,database administrator,data quality specialist,0,2
+K-nearest neighbours,database administrator,data scientist,0,2
+K-nearest neighbours,database administrator,data warehouse designer,0,2
+K-nearest neighbours,database administrator,database administrator,40,2
+K-nearest neighbours,database administrator,database designer,0,2
+K-nearest neighbours,database administrator,database developer,0,2
+K-nearest neighbours,database designer,artificial intelligence engineer,0,2
+K-nearest neighbours,database designer,data analyst,0,2
+K-nearest neighbours,database designer,data engineer,0,2
+K-nearest neighbours,database designer,data quality specialist,0,2
+K-nearest neighbours,database designer,data scientist,0,2
+K-nearest neighbours,database designer,data warehouse designer,4,2
+K-nearest neighbours,database designer,database administrator,0,2
+K-nearest neighbours,database designer,database designer,36,2
+K-nearest neighbours,database designer,database developer,0,2
+K-nearest neighbours,database developer,artificial intelligence engineer,0,2
+K-nearest neighbours,database developer,data analyst,0,2
+K-nearest neighbours,database developer,data engineer,0,2
+K-nearest neighbours,database developer,data quality specialist,0,2
+K-nearest neighbours,database developer,data scientist,0,2
+K-nearest neighbours,database developer,data warehouse designer,0,2
+K-nearest neighbours,database developer,database administrator,0,2
+K-nearest neighbours,database developer,database designer,0,2
+K-nearest neighbours,database developer,database developer,40,2

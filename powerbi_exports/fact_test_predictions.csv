@@ -1,0 +1,721 @@
+model,profile_id,actual_occupation,predicted_occupation,correct_prediction,model_id
+Logistic regression,P04_129,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_001,data analyst,data analyst,True,1
+Logistic regression,P01_159,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_139,data engineer,data engineer,True,1
+Logistic regression,P09_039,database developer,database developer,True,1
+Logistic regression,P06_132,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P02_027,data analyst,data analyst,True,1
+Logistic regression,P09_119,database developer,database developer,True,1
+Logistic regression,P09_113,database developer,database developer,True,1
+Logistic regression,P08_146,database designer,database designer,True,1
+Logistic regression,P03_123,data engineer,data engineer,True,1
+Logistic regression,P07_116,database administrator,database administrator,True,1
+Logistic regression,P07_077,database administrator,database administrator,True,1
+Logistic regression,P05_129,data scientist,data scientist,True,1
+Logistic regression,P09_058,database developer,database developer,True,1
+Logistic regression,P07_092,database administrator,database administrator,True,1
+Logistic regression,P01_130,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P05_043,data scientist,data scientist,True,1
+Logistic regression,P07_000,database administrator,database administrator,True,1
+Logistic regression,P07_099,database administrator,database administrator,True,1
+Logistic regression,P01_140,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P05_040,data scientist,data scientist,True,1
+Logistic regression,P01_013,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P07_063,database administrator,database administrator,True,1
+Logistic regression,P05_019,data scientist,data scientist,True,1
+Logistic regression,P07_071,database administrator,database administrator,True,1
+Logistic regression,P06_011,data warehouse designer,database designer,False,1
+Logistic regression,P07_036,database administrator,database administrator,True,1
+Logistic regression,P02_038,data analyst,data analyst,True,1
+Logistic regression,P01_102,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P02_107,data analyst,data analyst,True,1
+Logistic regression,P07_009,database administrator,database administrator,True,1
+Logistic regression,P06_026,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P06_117,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P06_004,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P03_017,data engineer,data engineer,True,1
+Logistic regression,P01_001,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_072,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P02_117,data analyst,data analyst,True,1
+Logistic regression,P04_100,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_148,data analyst,data analyst,True,1
+Logistic regression,P07_100,database administrator,database administrator,True,1
+Logistic regression,P05_150,data scientist,data scientist,True,1
+Logistic regression,P09_040,database developer,database developer,True,1
+Logistic regression,P04_140,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_129,data analyst,data analyst,True,1
+Logistic regression,P06_120,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_011,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_074,data analyst,data analyst,True,1
+Logistic regression,P03_027,data engineer,data engineer,True,1
+Logistic regression,P04_007,data quality specialist,data quality specialist,True,1
+Logistic regression,P08_056,database designer,database designer,True,1
+Logistic regression,P02_002,data analyst,data analyst,True,1
+Logistic regression,P02_131,data analyst,data analyst,True,1
+Logistic regression,P02_061,data analyst,data analyst,True,1
+Logistic regression,P03_031,data engineer,data engineer,True,1
+Logistic regression,P09_121,database developer,database developer,True,1
+Logistic regression,P09_080,database developer,database developer,True,1
+Logistic regression,P05_151,data scientist,data scientist,True,1
+Logistic regression,P08_116,database designer,data warehouse designer,False,1
+Logistic regression,P08_037,database designer,database designer,True,1
+Logistic regression,P01_157,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P08_089,database designer,database designer,True,1
+Logistic regression,P01_017,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_116,database developer,database developer,True,1
+Logistic regression,P01_121,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_098,database developer,database developer,True,1
+Logistic regression,P02_026,data analyst,data analyst,True,1
+Logistic regression,P07_119,database administrator,database administrator,True,1
+Logistic regression,P03_057,data engineer,data engineer,True,1
+Logistic regression,P09_028,database developer,database developer,True,1
+Logistic regression,P05_091,data scientist,data scientist,True,1
+Logistic regression,P08_045,database designer,database designer,True,1
+Logistic regression,P08_100,database designer,database designer,True,1
+Logistic regression,P04_034,data quality specialist,data quality specialist,True,1
+Logistic regression,P01_058,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P08_127,database designer,database designer,True,1
+Logistic regression,P08_148,database designer,database designer,True,1
+Logistic regression,P05_053,data scientist,data scientist,True,1
+Logistic regression,P03_092,data engineer,data engineer,True,1
+Logistic regression,P01_038,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_103,data engineer,data engineer,True,1
+Logistic regression,P06_060,data warehouse designer,database designer,False,1
+Logistic regression,P05_073,data scientist,data scientist,True,1
+Logistic regression,P01_071,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_094,data engineer,data engineer,True,1
+Logistic regression,P05_154,data scientist,data scientist,True,1
+Logistic regression,P01_087,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_142,data engineer,data engineer,True,1
+Logistic regression,P03_024,data engineer,data engineer,True,1
+Logistic regression,P07_137,database administrator,database administrator,True,1
+Logistic regression,P05_049,data scientist,data scientist,True,1
+Logistic regression,P05_116,data scientist,data scientist,True,1
+Logistic regression,P02_150,data analyst,data analyst,True,1
+Logistic regression,P06_157,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P05_057,data scientist,data scientist,True,1
+Logistic regression,P05_011,data scientist,data scientist,True,1
+Logistic regression,P01_113,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P05_002,data scientist,data scientist,True,1
+Logistic regression,P08_024,database designer,database designer,True,1
+Logistic regression,P05_152,data scientist,data scientist,True,1
+Logistic regression,P07_094,database administrator,database administrator,True,1
+Logistic regression,P06_046,data warehouse designer,database designer,False,1
+Logistic regression,P05_015,data scientist,data scientist,True,1
+Logistic regression,P07_075,database administrator,database administrator,True,1
+Logistic regression,P07_159,database administrator,database administrator,True,1
+Logistic regression,P02_029,data analyst,data analyst,True,1
+Logistic regression,P01_154,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_103,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P03_113,data engineer,data engineer,True,1
+Logistic regression,P05_055,data scientist,data scientist,True,1
+Logistic regression,P07_157,database administrator,database administrator,True,1
+Logistic regression,P03_127,data engineer,data engineer,True,1
+Logistic regression,P08_114,database designer,database designer,True,1
+Logistic regression,P01_052,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_042,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P01_020,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P02_122,data analyst,data analyst,True,1
+Logistic regression,P04_137,data quality specialist,data quality specialist,True,1
+Logistic regression,P08_028,database designer,database designer,True,1
+Logistic regression,P09_114,database developer,database developer,True,1
+Logistic regression,P08_107,database designer,database designer,True,1
+Logistic regression,P04_155,data quality specialist,data quality specialist,True,1
+Logistic regression,P03_085,data engineer,data engineer,True,1
+Logistic regression,P06_077,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P08_010,database designer,database designer,True,1
+Logistic regression,P09_085,database developer,database developer,True,1
+Logistic regression,P08_016,database designer,database designer,True,1
+Logistic regression,P04_146,data quality specialist,data quality specialist,True,1
+Logistic regression,P08_058,database designer,database designer,True,1
+Logistic regression,P03_016,data engineer,data engineer,True,1
+Logistic regression,P05_000,data scientist,data scientist,True,1
+Logistic regression,P07_002,database administrator,database administrator,True,1
+Logistic regression,P02_050,data analyst,data analyst,True,1
+Logistic regression,P02_120,data analyst,data analyst,True,1
+Logistic regression,P07_059,database administrator,database administrator,True,1
+Logistic regression,P07_021,database administrator,database administrator,True,1
+Logistic regression,P05_133,data scientist,data scientist,True,1
+Logistic regression,P06_045,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P08_109,database designer,database designer,True,1
+Logistic regression,P09_099,database developer,database developer,True,1
+Logistic regression,P09_127,database developer,database developer,True,1
+Logistic regression,P04_032,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_059,data scientist,data scientist,True,1
+Logistic regression,P08_149,database designer,database designer,True,1
+Logistic regression,P04_139,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_139,data analyst,data analyst,True,1
+Logistic regression,P07_064,database administrator,database administrator,True,1
+Logistic regression,P09_144,database developer,database developer,True,1
+Logistic regression,P02_055,data analyst,data analyst,True,1
+Logistic regression,P09_023,database developer,database developer,True,1
+Logistic regression,P03_096,data engineer,data engineer,True,1
+Logistic regression,P05_131,data scientist,data scientist,True,1
+Logistic regression,P04_083,data quality specialist,data quality specialist,True,1
+Logistic regression,P08_159,database designer,database designer,True,1
+Logistic regression,P03_066,data engineer,data engineer,True,1
+Logistic regression,P07_062,database administrator,database administrator,True,1
+Logistic regression,P03_023,data engineer,data engineer,True,1
+Logistic regression,P08_054,database designer,data warehouse designer,False,1
+Logistic regression,P03_029,data engineer,data engineer,True,1
+Logistic regression,P09_097,database developer,database developer,True,1
+Logistic regression,P07_072,database administrator,database administrator,True,1
+Logistic regression,P02_043,data analyst,data analyst,True,1
+Logistic regression,P03_034,data engineer,data engineer,True,1
+Logistic regression,P09_136,database developer,database developer,True,1
+Logistic regression,P08_135,database designer,database designer,True,1
+Logistic regression,P03_003,data engineer,data engineer,True,1
+Logistic regression,P02_136,data analyst,data analyst,True,1
+Logistic regression,P09_150,database developer,database developer,True,1
+Logistic regression,P08_152,database designer,database designer,True,1
+Logistic regression,P02_058,data analyst,data analyst,True,1
+Logistic regression,P04_099,data quality specialist,data quality specialist,True,1
+Logistic regression,P04_127,data quality specialist,data quality specialist,True,1
+Logistic regression,P03_046,data engineer,data engineer,True,1
+Logistic regression,P04_033,data quality specialist,data quality specialist,True,1
+Logistic regression,P06_000,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P05_112,data scientist,data scientist,True,1
+Logistic regression,P03_026,data engineer,data engineer,True,1
+Logistic regression,P08_158,database designer,database designer,True,1
+Logistic regression,P02_051,data analyst,data analyst,True,1
+Logistic regression,P02_133,data analyst,data analyst,True,1
+Logistic regression,P07_034,database administrator,database administrator,True,1
+Logistic regression,P06_021,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P05_046,data scientist,data scientist,True,1
+Logistic regression,P02_091,data analyst,data analyst,True,1
+Logistic regression,P08_144,database designer,database designer,True,1
+Logistic regression,P09_052,database developer,database developer,True,1
+Logistic regression,P06_085,data warehouse designer,database designer,False,1
+Logistic regression,P05_140,data scientist,data scientist,True,1
+Logistic regression,P02_112,data analyst,data analyst,True,1
+Logistic regression,P05_146,data scientist,data scientist,True,1
+Logistic regression,P01_137,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P08_052,database designer,database designer,True,1
+Logistic regression,P09_021,database developer,database developer,True,1
+Logistic regression,P06_150,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P03_098,data engineer,data engineer,True,1
+Logistic regression,P08_034,database designer,database designer,True,1
+Logistic regression,P01_106,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P04_000,data quality specialist,data quality specialist,True,1
+Logistic regression,P01_150,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_102,database developer,database developer,True,1
+Logistic regression,P07_076,database administrator,database administrator,True,1
+Logistic regression,P08_074,database designer,database designer,True,1
+Logistic regression,P04_025,data quality specialist,data quality specialist,True,1
+Logistic regression,P09_107,database developer,database developer,True,1
+Logistic regression,P07_039,database administrator,database administrator,True,1
+Logistic regression,P09_101,database developer,database developer,True,1
+Logistic regression,P03_036,data engineer,data engineer,True,1
+Logistic regression,P02_141,data analyst,data analyst,True,1
+Logistic regression,P02_128,data analyst,data analyst,True,1
+Logistic regression,P07_061,database administrator,database administrator,True,1
+Logistic regression,P02_083,data analyst,data analyst,True,1
+Logistic regression,P01_057,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_114,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P08_050,database designer,data warehouse designer,False,1
+Logistic regression,P05_100,data scientist,data scientist,True,1
+Logistic regression,P04_114,data quality specialist,data quality specialist,True,1
+Logistic regression,P01_050,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_025,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P06_044,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P01_054,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P02_011,data analyst,data analyst,True,1
+Logistic regression,P02_095,data analyst,data analyst,True,1
+Logistic regression,P03_053,data engineer,data engineer,True,1
+Logistic regression,P08_023,database designer,database designer,True,1
+Logistic regression,P09_086,database developer,database developer,True,1
+Logistic regression,P04_042,data quality specialist,data quality specialist,True,1
+Logistic regression,P01_107,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_047,data engineer,data engineer,True,1
+Logistic regression,P09_033,database developer,database developer,True,1
+Logistic regression,P02_115,data analyst,data analyst,True,1
+Logistic regression,P04_095,data quality specialist,data quality specialist,True,1
+Logistic regression,P06_144,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P06_131,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P02_080,data analyst,data analyst,True,1
+Logistic regression,P07_008,database administrator,database administrator,True,1
+Logistic regression,P08_090,database designer,data warehouse designer,False,1
+Logistic regression,P08_000,database designer,database designer,True,1
+Logistic regression,P09_069,database developer,database developer,True,1
+Logistic regression,P07_037,database administrator,database administrator,True,1
+Logistic regression,P03_145,data engineer,data engineer,True,1
+Logistic regression,P08_053,database designer,database designer,True,1
+Logistic regression,P02_102,data analyst,data analyst,True,1
+Logistic regression,P08_122,database designer,database designer,True,1
+Logistic regression,P06_095,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P03_005,data engineer,data engineer,True,1
+Logistic regression,P04_045,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_060,data scientist,data scientist,True,1
+Logistic regression,P07_148,database administrator,database administrator,True,1
+Logistic regression,P01_003,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_008,database developer,database developer,True,1
+Logistic regression,P04_080,data quality specialist,data quality specialist,True,1
+Logistic regression,P02_127,data analyst,data analyst,True,1
+Logistic regression,P04_123,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_145,data scientist,data scientist,True,1
+Logistic regression,P03_045,data engineer,data engineer,True,1
+Logistic regression,P09_036,database developer,database developer,True,1
+Logistic regression,P09_003,database developer,database developer,True,1
+Logistic regression,P06_156,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_089,data quality specialist,data quality specialist,True,1
+Logistic regression,P03_048,data engineer,data engineer,True,1
+Logistic regression,P01_116,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P01_037,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P01_021,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P03_020,data engineer,data engineer,True,1
+Logistic regression,P05_148,data scientist,data scientist,True,1
+Logistic regression,P01_059,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P05_048,data scientist,data scientist,True,1
+Logistic regression,P05_117,data scientist,data scientist,True,1
+Logistic regression,P05_121,data scientist,data scientist,True,1
+Logistic regression,P02_151,data analyst,data analyst,True,1
+Logistic regression,P03_133,data engineer,data engineer,True,1
+Logistic regression,P03_115,data engineer,data engineer,True,1
+Logistic regression,P02_142,data analyst,data analyst,True,1
+Logistic regression,P08_062,database designer,database designer,True,1
+Logistic regression,P01_099,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_105,database developer,database developer,True,1
+Logistic regression,P09_024,database developer,database developer,True,1
+Logistic regression,P01_129,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_094,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_023,data quality specialist,data quality specialist,True,1
+Logistic regression,P03_137,data engineer,data engineer,True,1
+Logistic regression,P09_108,database developer,database developer,True,1
+Logistic regression,P06_124,data warehouse designer,database designer,False,1
+Logistic regression,P06_121,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P06_079,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_015,data quality specialist,data quality specialist,True,1
+Logistic regression,P04_028,data quality specialist,data quality specialist,True,1
+Logistic regression,P06_110,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_092,data quality specialist,data quality specialist,True,1
+Logistic regression,P09_084,database developer,database developer,True,1
+Logistic regression,P09_041,database developer,database developer,True,1
+Logistic regression,P01_088,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_143,data warehouse designer,database designer,False,1
+Logistic regression,P07_012,database administrator,database administrator,True,1
+Logistic regression,P01_092,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_137,database developer,database developer,True,1
+Logistic regression,P06_020,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P01_074,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P04_157,data quality specialist,data quality specialist,True,1
+Logistic regression,P03_060,data engineer,data engineer,True,1
+Logistic regression,P05_101,data scientist,data scientist,True,1
+Logistic regression,P08_040,database designer,database designer,True,1
+Logistic regression,P05_007,data scientist,data scientist,True,1
+Logistic regression,P06_089,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P07_125,database administrator,database administrator,True,1
+Logistic regression,P03_110,data engineer,data engineer,True,1
+Logistic regression,P04_156,data quality specialist,data quality specialist,True,1
+Logistic regression,P04_159,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_013,data scientist,data scientist,True,1
+Logistic regression,P07_133,database administrator,database administrator,True,1
+Logistic regression,P07_004,database administrator,database administrator,True,1
+Logistic regression,P01_133,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P01_063,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_092,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P08_039,database designer,database designer,True,1
+Logistic regression,P08_042,database designer,database designer,True,1
+Logistic regression,P04_068,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_156,data scientist,data scientist,True,1
+Logistic regression,P07_129,database administrator,database administrator,True,1
+Logistic regression,P07_093,database administrator,database administrator,True,1
+Logistic regression,P04_066,data quality specialist,data quality specialist,True,1
+Logistic regression,P05_027,data scientist,data scientist,True,1
+Logistic regression,P04_079,data quality specialist,data quality specialist,True,1
+Logistic regression,P07_083,database administrator,database administrator,True,1
+Logistic regression,P07_068,database administrator,database administrator,True,1
+Logistic regression,P05_079,data scientist,data scientist,True,1
+Logistic regression,P03_159,data engineer,data engineer,True,1
+Logistic regression,P06_069,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P05_089,data scientist,data scientist,True,1
+Logistic regression,P03_116,data engineer,data engineer,True,1
+Logistic regression,P02_158,data analyst,data analyst,True,1
+Logistic regression,P09_075,database developer,database developer,True,1
+Logistic regression,P08_129,database designer,database designer,True,1
+Logistic regression,P02_100,data analyst,data analyst,True,1
+Logistic regression,P09_016,database developer,database developer,True,1
+Logistic regression,P07_048,database administrator,database administrator,True,1
+Logistic regression,P04_043,data quality specialist,data quality specialist,True,1
+Logistic regression,P06_050,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P09_074,database developer,database developer,True,1
+Logistic regression,P06_091,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P03_146,data engineer,data engineer,True,1
+Logistic regression,P01_014,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P04_073,data quality specialist,data quality specialist,True,1
+Logistic regression,P08_136,database designer,database designer,True,1
+Logistic regression,P01_072,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P09_013,database developer,database developer,True,1
+Logistic regression,P07_016,database administrator,database administrator,True,1
+Logistic regression,P02_130,data analyst,data analyst,True,1
+Logistic regression,P01_103,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P06_033,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P04_064,data quality specialist,data quality specialist,True,1
+Logistic regression,P06_024,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P08_150,database designer,database designer,True,1
+Logistic regression,P06_007,data warehouse designer,data warehouse designer,True,1
+Logistic regression,P07_138,database administrator,database administrator,True,1
+Logistic regression,P04_001,data quality specialist,data quality specialist,True,1
+Logistic regression,P04_094,data quality specialist,data quality specialist,True,1
+Logistic regression,P01_048,artificial intelligence engineer,artificial intelligence engineer,True,1
+Logistic regression,P04_003,data quality specialist,data quality specialist,True,1
+K-nearest neighbours,P04_129,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_001,data analyst,data analyst,True,2
+K-nearest neighbours,P01_159,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_139,data engineer,data engineer,True,2
+K-nearest neighbours,P09_039,database developer,database developer,True,2
+K-nearest neighbours,P06_132,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P02_027,data analyst,data analyst,True,2
+K-nearest neighbours,P09_119,database developer,database developer,True,2
+K-nearest neighbours,P09_113,database developer,database developer,True,2
+K-nearest neighbours,P08_146,database designer,database designer,True,2
+K-nearest neighbours,P03_123,data engineer,data engineer,True,2
+K-nearest neighbours,P07_116,database administrator,database administrator,True,2
+K-nearest neighbours,P07_077,database administrator,database administrator,True,2
+K-nearest neighbours,P05_129,data scientist,data scientist,True,2
+K-nearest neighbours,P09_058,database developer,database developer,True,2
+K-nearest neighbours,P07_092,database administrator,database administrator,True,2
+K-nearest neighbours,P01_130,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P05_043,data scientist,data scientist,True,2
+K-nearest neighbours,P07_000,database administrator,database administrator,True,2
+K-nearest neighbours,P07_099,database administrator,database administrator,True,2
+K-nearest neighbours,P01_140,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P05_040,data scientist,data scientist,True,2
+K-nearest neighbours,P01_013,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P07_063,database administrator,database administrator,True,2
+K-nearest neighbours,P05_019,data scientist,data scientist,True,2
+K-nearest neighbours,P07_071,database administrator,database administrator,True,2
+K-nearest neighbours,P06_011,data warehouse designer,database designer,False,2
+K-nearest neighbours,P07_036,database administrator,database administrator,True,2
+K-nearest neighbours,P02_038,data analyst,data analyst,True,2
+K-nearest neighbours,P01_102,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P02_107,data analyst,data analyst,True,2
+K-nearest neighbours,P07_009,database administrator,database administrator,True,2
+K-nearest neighbours,P06_026,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_117,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_004,data warehouse designer,database designer,False,2
+K-nearest neighbours,P03_017,data engineer,data engineer,True,2
+K-nearest neighbours,P01_001,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_072,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P02_117,data analyst,data analyst,True,2
+K-nearest neighbours,P04_100,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_148,data analyst,data analyst,True,2
+K-nearest neighbours,P07_100,database administrator,database administrator,True,2
+K-nearest neighbours,P05_150,data scientist,data scientist,True,2
+K-nearest neighbours,P09_040,database developer,database developer,True,2
+K-nearest neighbours,P04_140,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_129,data analyst,data analyst,True,2
+K-nearest neighbours,P06_120,data warehouse designer,database designer,False,2
+K-nearest neighbours,P04_011,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_074,data analyst,data analyst,True,2
+K-nearest neighbours,P03_027,data engineer,data engineer,True,2
+K-nearest neighbours,P04_007,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P08_056,database designer,database designer,True,2
+K-nearest neighbours,P02_002,data analyst,data analyst,True,2
+K-nearest neighbours,P02_131,data analyst,data analyst,True,2
+K-nearest neighbours,P02_061,data analyst,data analyst,True,2
+K-nearest neighbours,P03_031,data engineer,data engineer,True,2
+K-nearest neighbours,P09_121,database developer,database developer,True,2
+K-nearest neighbours,P09_080,database developer,database developer,True,2
+K-nearest neighbours,P05_151,data scientist,data scientist,True,2
+K-nearest neighbours,P08_116,database designer,database designer,True,2
+K-nearest neighbours,P08_037,database designer,database designer,True,2
+K-nearest neighbours,P01_157,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P08_089,database designer,database designer,True,2
+K-nearest neighbours,P01_017,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_116,database developer,database developer,True,2
+K-nearest neighbours,P01_121,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_098,database developer,database developer,True,2
+K-nearest neighbours,P02_026,data analyst,data analyst,True,2
+K-nearest neighbours,P07_119,database administrator,database administrator,True,2
+K-nearest neighbours,P03_057,data engineer,data engineer,True,2
+K-nearest neighbours,P09_028,database developer,database developer,True,2
+K-nearest neighbours,P05_091,data scientist,data scientist,True,2
+K-nearest neighbours,P08_045,database designer,database designer,True,2
+K-nearest neighbours,P08_100,database designer,database designer,True,2
+K-nearest neighbours,P04_034,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P01_058,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P08_127,database designer,database designer,True,2
+K-nearest neighbours,P08_148,database designer,database designer,True,2
+K-nearest neighbours,P05_053,data scientist,data scientist,True,2
+K-nearest neighbours,P03_092,data engineer,data engineer,True,2
+K-nearest neighbours,P01_038,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_103,data engineer,data engineer,True,2
+K-nearest neighbours,P06_060,data warehouse designer,database designer,False,2
+K-nearest neighbours,P05_073,data scientist,data scientist,True,2
+K-nearest neighbours,P01_071,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_094,data engineer,data engineer,True,2
+K-nearest neighbours,P05_154,data scientist,data scientist,True,2
+K-nearest neighbours,P01_087,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_142,data engineer,data engineer,True,2
+K-nearest neighbours,P03_024,data engineer,data engineer,True,2
+K-nearest neighbours,P07_137,database administrator,database administrator,True,2
+K-nearest neighbours,P05_049,data scientist,data scientist,True,2
+K-nearest neighbours,P05_116,data scientist,data scientist,True,2
+K-nearest neighbours,P02_150,data analyst,data analyst,True,2
+K-nearest neighbours,P06_157,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_057,data scientist,data scientist,True,2
+K-nearest neighbours,P05_011,data scientist,data scientist,True,2
+K-nearest neighbours,P01_113,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P05_002,data scientist,data scientist,True,2
+K-nearest neighbours,P08_024,database designer,database designer,True,2
+K-nearest neighbours,P05_152,data scientist,data scientist,True,2
+K-nearest neighbours,P07_094,database administrator,database administrator,True,2
+K-nearest neighbours,P06_046,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_015,data scientist,data scientist,True,2
+K-nearest neighbours,P07_075,database administrator,database administrator,True,2
+K-nearest neighbours,P07_159,database administrator,database administrator,True,2
+K-nearest neighbours,P02_029,data analyst,data analyst,True,2
+K-nearest neighbours,P01_154,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_103,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P03_113,data engineer,data engineer,True,2
+K-nearest neighbours,P05_055,data scientist,data scientist,True,2
+K-nearest neighbours,P07_157,database administrator,database administrator,True,2
+K-nearest neighbours,P03_127,data engineer,data engineer,True,2
+K-nearest neighbours,P08_114,database designer,database designer,True,2
+K-nearest neighbours,P01_052,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_042,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P01_020,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P02_122,data analyst,data analyst,True,2
+K-nearest neighbours,P04_137,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P08_028,database designer,database designer,True,2
+K-nearest neighbours,P09_114,database developer,database developer,True,2
+K-nearest neighbours,P08_107,database designer,database designer,True,2
+K-nearest neighbours,P04_155,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P03_085,data engineer,data engineer,True,2
+K-nearest neighbours,P06_077,data warehouse designer,database designer,False,2
+K-nearest neighbours,P08_010,database designer,database designer,True,2
+K-nearest neighbours,P09_085,database developer,database developer,True,2
+K-nearest neighbours,P08_016,database designer,database designer,True,2
+K-nearest neighbours,P04_146,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P08_058,database designer,database designer,True,2
+K-nearest neighbours,P03_016,data engineer,data engineer,True,2
+K-nearest neighbours,P05_000,data scientist,data scientist,True,2
+K-nearest neighbours,P07_002,database administrator,database administrator,True,2
+K-nearest neighbours,P02_050,data analyst,data analyst,True,2
+K-nearest neighbours,P02_120,data analyst,data analyst,True,2
+K-nearest neighbours,P07_059,database administrator,database administrator,True,2
+K-nearest neighbours,P07_021,database administrator,database administrator,True,2
+K-nearest neighbours,P05_133,data scientist,data scientist,True,2
+K-nearest neighbours,P06_045,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P08_109,database designer,database designer,True,2
+K-nearest neighbours,P09_099,database developer,database developer,True,2
+K-nearest neighbours,P09_127,database developer,database developer,True,2
+K-nearest neighbours,P04_032,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_059,data scientist,data scientist,True,2
+K-nearest neighbours,P08_149,database designer,database designer,True,2
+K-nearest neighbours,P04_139,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_139,data analyst,data analyst,True,2
+K-nearest neighbours,P07_064,database administrator,database administrator,True,2
+K-nearest neighbours,P09_144,database developer,database developer,True,2
+K-nearest neighbours,P02_055,data analyst,data analyst,True,2
+K-nearest neighbours,P09_023,database developer,database developer,True,2
+K-nearest neighbours,P03_096,data engineer,data engineer,True,2
+K-nearest neighbours,P05_131,data scientist,data scientist,True,2
+K-nearest neighbours,P04_083,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P08_159,database designer,database designer,True,2
+K-nearest neighbours,P03_066,data engineer,data engineer,True,2
+K-nearest neighbours,P07_062,database administrator,database administrator,True,2
+K-nearest neighbours,P03_023,data engineer,data engineer,True,2
+K-nearest neighbours,P08_054,database designer,data warehouse designer,False,2
+K-nearest neighbours,P03_029,data engineer,data engineer,True,2
+K-nearest neighbours,P09_097,database developer,database developer,True,2
+K-nearest neighbours,P07_072,database administrator,database administrator,True,2
+K-nearest neighbours,P02_043,data analyst,data analyst,True,2
+K-nearest neighbours,P03_034,data engineer,data engineer,True,2
+K-nearest neighbours,P09_136,database developer,database developer,True,2
+K-nearest neighbours,P08_135,database designer,database designer,True,2
+K-nearest neighbours,P03_003,data engineer,data engineer,True,2
+K-nearest neighbours,P02_136,data analyst,data analyst,True,2
+K-nearest neighbours,P09_150,database developer,database developer,True,2
+K-nearest neighbours,P08_152,database designer,database designer,True,2
+K-nearest neighbours,P02_058,data analyst,data analyst,True,2
+K-nearest neighbours,P04_099,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P04_127,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P03_046,data engineer,data engineer,True,2
+K-nearest neighbours,P04_033,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P06_000,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_112,data scientist,data scientist,True,2
+K-nearest neighbours,P03_026,data engineer,data engineer,True,2
+K-nearest neighbours,P08_158,database designer,database designer,True,2
+K-nearest neighbours,P02_051,data analyst,data analyst,True,2
+K-nearest neighbours,P02_133,data analyst,data analyst,True,2
+K-nearest neighbours,P07_034,database administrator,database administrator,True,2
+K-nearest neighbours,P06_021,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_046,data scientist,data scientist,True,2
+K-nearest neighbours,P02_091,data analyst,data analyst,True,2
+K-nearest neighbours,P08_144,database designer,data warehouse designer,False,2
+K-nearest neighbours,P09_052,database developer,database developer,True,2
+K-nearest neighbours,P06_085,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_140,data scientist,data scientist,True,2
+K-nearest neighbours,P02_112,data analyst,data analyst,True,2
+K-nearest neighbours,P05_146,data scientist,data scientist,True,2
+K-nearest neighbours,P01_137,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P08_052,database designer,database designer,True,2
+K-nearest neighbours,P09_021,database developer,database developer,True,2
+K-nearest neighbours,P06_150,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P03_098,data engineer,data engineer,True,2
+K-nearest neighbours,P08_034,database designer,database designer,True,2
+K-nearest neighbours,P01_106,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P04_000,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P01_150,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_102,database developer,database developer,True,2
+K-nearest neighbours,P07_076,database administrator,database administrator,True,2
+K-nearest neighbours,P08_074,database designer,database designer,True,2
+K-nearest neighbours,P04_025,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P09_107,database developer,database developer,True,2
+K-nearest neighbours,P07_039,database administrator,database administrator,True,2
+K-nearest neighbours,P09_101,database developer,database developer,True,2
+K-nearest neighbours,P03_036,data engineer,data engineer,True,2
+K-nearest neighbours,P02_141,data analyst,data analyst,True,2
+K-nearest neighbours,P02_128,data analyst,data analyst,True,2
+K-nearest neighbours,P07_061,database administrator,database administrator,True,2
+K-nearest neighbours,P02_083,data analyst,data analyst,True,2
+K-nearest neighbours,P01_057,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_114,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P08_050,database designer,data warehouse designer,False,2
+K-nearest neighbours,P05_100,data scientist,data scientist,True,2
+K-nearest neighbours,P04_114,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P01_050,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_025,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_044,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P01_054,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P02_011,data analyst,data analyst,True,2
+K-nearest neighbours,P02_095,data analyst,data analyst,True,2
+K-nearest neighbours,P03_053,data engineer,data engineer,True,2
+K-nearest neighbours,P08_023,database designer,database designer,True,2
+K-nearest neighbours,P09_086,database developer,database developer,True,2
+K-nearest neighbours,P04_042,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P01_107,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_047,data engineer,data engineer,True,2
+K-nearest neighbours,P09_033,database developer,database developer,True,2
+K-nearest neighbours,P02_115,data analyst,data analyst,True,2
+K-nearest neighbours,P04_095,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P06_144,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_131,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P02_080,data analyst,data analyst,True,2
+K-nearest neighbours,P07_008,database administrator,database administrator,True,2
+K-nearest neighbours,P08_090,database designer,data warehouse designer,False,2
+K-nearest neighbours,P08_000,database designer,database designer,True,2
+K-nearest neighbours,P09_069,database developer,database developer,True,2
+K-nearest neighbours,P07_037,database administrator,database administrator,True,2
+K-nearest neighbours,P03_145,data engineer,data engineer,True,2
+K-nearest neighbours,P08_053,database designer,database designer,True,2
+K-nearest neighbours,P02_102,data analyst,data analyst,True,2
+K-nearest neighbours,P08_122,database designer,database designer,True,2
+K-nearest neighbours,P06_095,data warehouse designer,database designer,False,2
+K-nearest neighbours,P03_005,data engineer,data engineer,True,2
+K-nearest neighbours,P04_045,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_060,data scientist,data scientist,True,2
+K-nearest neighbours,P07_148,database administrator,database administrator,True,2
+K-nearest neighbours,P01_003,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_008,database developer,database developer,True,2
+K-nearest neighbours,P04_080,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P02_127,data analyst,data analyst,True,2
+K-nearest neighbours,P04_123,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_145,data scientist,data scientist,True,2
+K-nearest neighbours,P03_045,data engineer,data engineer,True,2
+K-nearest neighbours,P09_036,database developer,database developer,True,2
+K-nearest neighbours,P09_003,database developer,database developer,True,2
+K-nearest neighbours,P06_156,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P04_089,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P03_048,data engineer,data engineer,True,2
+K-nearest neighbours,P01_116,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P01_037,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P01_021,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P03_020,data engineer,data engineer,True,2
+K-nearest neighbours,P05_148,data scientist,data scientist,True,2
+K-nearest neighbours,P01_059,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P05_048,data scientist,data scientist,True,2
+K-nearest neighbours,P05_117,data scientist,data scientist,True,2
+K-nearest neighbours,P05_121,data scientist,data scientist,True,2
+K-nearest neighbours,P02_151,data analyst,data analyst,True,2
+K-nearest neighbours,P03_133,data engineer,data engineer,True,2
+K-nearest neighbours,P03_115,data engineer,data engineer,True,2
+K-nearest neighbours,P02_142,data analyst,data analyst,True,2
+K-nearest neighbours,P08_062,database designer,database designer,True,2
+K-nearest neighbours,P01_099,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_105,database developer,database developer,True,2
+K-nearest neighbours,P09_024,database developer,database developer,True,2
+K-nearest neighbours,P01_129,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_094,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P04_023,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P03_137,data engineer,data engineer,True,2
+K-nearest neighbours,P09_108,database developer,database developer,True,2
+K-nearest neighbours,P06_124,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_121,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P06_079,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P04_015,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P04_028,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P06_110,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P04_092,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P09_084,database developer,database developer,True,2
+K-nearest neighbours,P09_041,database developer,database developer,True,2
+K-nearest neighbours,P01_088,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_143,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P07_012,database administrator,database administrator,True,2
+K-nearest neighbours,P01_092,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_137,database developer,database developer,True,2
+K-nearest neighbours,P06_020,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P01_074,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P04_157,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P03_060,data engineer,data engineer,True,2
+K-nearest neighbours,P05_101,data scientist,data scientist,True,2
+K-nearest neighbours,P08_040,database designer,database designer,True,2
+K-nearest neighbours,P05_007,data scientist,data scientist,True,2
+K-nearest neighbours,P06_089,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P07_125,database administrator,database administrator,True,2
+K-nearest neighbours,P03_110,data engineer,data engineer,True,2
+K-nearest neighbours,P04_156,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P04_159,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_013,data scientist,data scientist,True,2
+K-nearest neighbours,P07_133,database administrator,database administrator,True,2
+K-nearest neighbours,P07_004,database administrator,database administrator,True,2
+K-nearest neighbours,P01_133,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P01_063,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_092,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P08_039,database designer,database designer,True,2
+K-nearest neighbours,P08_042,database designer,database designer,True,2
+K-nearest neighbours,P04_068,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_156,data scientist,data scientist,True,2
+K-nearest neighbours,P07_129,database administrator,database administrator,True,2
+K-nearest neighbours,P07_093,database administrator,database administrator,True,2
+K-nearest neighbours,P04_066,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P05_027,data scientist,data scientist,True,2
+K-nearest neighbours,P04_079,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P07_083,database administrator,database administrator,True,2
+K-nearest neighbours,P07_068,database administrator,database administrator,True,2
+K-nearest neighbours,P05_079,data scientist,data scientist,True,2
+K-nearest neighbours,P03_159,data engineer,data engineer,True,2
+K-nearest neighbours,P06_069,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P05_089,data scientist,data scientist,True,2
+K-nearest neighbours,P03_116,data engineer,data engineer,True,2
+K-nearest neighbours,P02_158,data analyst,data analyst,True,2
+K-nearest neighbours,P09_075,database developer,database developer,True,2
+K-nearest neighbours,P08_129,database designer,database designer,True,2
+K-nearest neighbours,P02_100,data analyst,data analyst,True,2
+K-nearest neighbours,P09_016,database developer,database developer,True,2
+K-nearest neighbours,P07_048,database administrator,database administrator,True,2
+K-nearest neighbours,P04_043,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P06_050,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P09_074,database developer,database developer,True,2
+K-nearest neighbours,P06_091,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P03_146,data engineer,data engineer,True,2
+K-nearest neighbours,P01_014,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P04_073,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P08_136,database designer,database designer,True,2
+K-nearest neighbours,P01_072,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P09_013,database developer,database developer,True,2
+K-nearest neighbours,P07_016,database administrator,database administrator,True,2
+K-nearest neighbours,P02_130,data analyst,data analyst,True,2
+K-nearest neighbours,P01_103,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P06_033,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P04_064,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P06_024,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P08_150,database designer,database designer,True,2
+K-nearest neighbours,P06_007,data warehouse designer,data warehouse designer,True,2
+K-nearest neighbours,P07_138,database administrator,database administrator,True,2
+K-nearest neighbours,P04_001,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P04_094,data quality specialist,data quality specialist,True,2
+K-nearest neighbours,P01_048,artificial intelligence engineer,artificial intelligence engineer,True,2
+K-nearest neighbours,P04_003,data quality specialist,data quality specialist,True,2

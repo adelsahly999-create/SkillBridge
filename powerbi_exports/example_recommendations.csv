@@ -1,0 +1,10 @@
+rank,occupation_name,model_score,matched_essential_concepts,total_essential_concepts,essential_coverage,missing_essential_concepts,matched_concepts,occupation_id
+1,data scientist,0.436778821179318,12,63,0.19047619047619047,51,build recommender systems; collect ict data; data ethics; data mining; data visualisation software; execute analytical mathematical calculations; interpret current data; mathematical modelling; perform data cleansing; perform scientific research; report analysis results; statistics,5
+2,data analyst,0.3017458696210242,8,36,0.2222222222222222,28,collect ict data; data ethics; data mining; data visualisation software; execute analytical mathematical calculations; interpret current data; perform data cleansing; statistics,2
+3,data quality specialist,0.059338930558120104,3,20,0.15,17,data ethics; perform data cleansing; report analysis results,4
+4,database developer,0.051298440125981726,1,20,0.05,19,report analysis results,9
+5,artificial intelligence engineer,0.049660333622795046,2,31,0.06451612903225806,29,data mining; python (computer programming),1
+6,data warehouse designer,0.029247523792916282,0,28,0.0,28,No shared essential concepts in this example.,6
+7,database designer,0.026542140206498713,0,27,0.0,27,No shared essential concepts in this example.,8
+8,database administrator,0.02407371507233049,0,28,0.0,28,No shared essential concepts in this example.,7
+9,data engineer,0.021314225821015456,0,23,0.0,23,No shared essential concepts in this example.,3
