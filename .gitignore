@@ -1,0 +1,14 @@
+# Download the three source CSVs from ESCO; keep the GitHub repository small.
+/occupations_en.csv
+/skills_en.csv
+/occupationSkillRelations_en.csv
+
+# Generated database and local Python/Jupyter state.
+/skillbridge.db
+/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
